@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #9ae7e1;
+  }
+  h1 {
+    color: #333;
+  }
+  h2 {
+    color: #086114;
+    font-size: 30px;
+    text-align: center;
+  }
+  a {
+    color: #007bff;
+    text-decoration: underline;
+  }
